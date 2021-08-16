@@ -7,4 +7,4 @@ where C is a nonempty, closed and convex set contained in *R^n* and  *F:R^n-->R^
 
 					(F(x)-F(y))^T(x-y) >= 0,
 					
-para todo x,y in R^n.
+for all x,y in R^n.
