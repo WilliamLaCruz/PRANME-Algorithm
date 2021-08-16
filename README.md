@@ -1,4 +1,4 @@
-# PRANME-Algortihm
+# PRANME-Algorithm
 **PRANME** is a projected residual algorithm for solving a *system of nonlinear monotone equations over a nonempty closed convex set*, whose mathematical formulation is as follows:
 
 					Find x in C  such that F(x) = 0,
